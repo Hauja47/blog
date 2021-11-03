@@ -13,9 +13,11 @@
         "laravel/framework": "^8.65",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
+        "laravel-lang/http-statuses": "^1.0",
         "spatie/yaml-front-matter": "^2.0"
     },
     "require-dev": {
+        "andrey-helldar/laravel-lang-publisher": "^10.2",
         "barryvdh/laravel-ide-helper": "^2.10",
         "facade/ignition": "^2.5",
         "fakerphp/faker": "^1.9.1",
